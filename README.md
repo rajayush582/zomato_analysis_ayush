@@ -56,11 +56,6 @@ The dashboard presents key metrics and charts in one place, making restaurant da
 - **Business intelligence** — summarizing data into useful metrics
 - **Data visualization** — presenting patterns with charts and KPI cards
 
-## 🖼️ Dashboard Preview
-
-Upload the dashboard screenshot to this repository using the filename `zomato_dashboard.png`. The preview will appear here once the image is uploaded:
-
-![Zomato Analysis Dashboard](zomato_dashboard.png)
 
 ## 📂 Suggested Repository Files
 
